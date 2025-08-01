@@ -1,4 +1,3 @@
-# Challenge-Amigo-Secreto-Alura
 <h1> Challenge Amigo Secreto de Alura </h1>
 
 Este Challenge de Alura tiene como objetivo mostrar las funcionalidades de JavaScript aplicadas en un sitio web.
